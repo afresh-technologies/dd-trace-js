@@ -97,7 +97,7 @@
     "ejs": "3.1.10",
     "elasticsearch": "16.7.3",
     "esbuild": "0.27.0",
-    "express": "5.1.0",
+    "express": "5.2.0",
     "express-mongo-sanitize": "2.2.0",
     "express-session": "1.18.2",
     "fastify": "5.6.2",
