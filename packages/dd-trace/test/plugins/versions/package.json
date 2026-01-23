@@ -132,7 +132,7 @@
     "ldapjs": "3.0.7",
     "ldapjs-promise": "3.0.7",
     "limitd-client": "2.14.1",
-    "lodash": "4.17.21",
+    "lodash": "4.17.23",
     "loopback": "3.28.0",
     "mariadb": "3.4.5",
     "memcached": "2.2.2",
