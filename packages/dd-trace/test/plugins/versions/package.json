@@ -78,7 +78,7 @@
     "apollo-server-fastify": "3.13.0",
     "avsc": "5.7.9",
     "aws-sdk": "2.1692.0",
-    "axios": "1.13.2",
+    "axios": "1.13.5",
     "azure-functions-core-tools": "4.4.0",
     "bluebird": "3.7.2",
     "body-parser": "2.2.0",
